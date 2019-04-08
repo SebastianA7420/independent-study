@@ -7,5 +7,6 @@ I have dowloaded the flutter ADK. It is a very large file, therefore it took a w
 ![](/images/entry2gif.gif)
 
 ## Wednesday:
-Today I'm going to give App Inventor a shot and see what I can do with it. The layout is very similar to Scratch. They have a few projects easy that I can work on.
+Today I'm going to give App Inventor a shot and see what I can do with it. The layout is very similar to Scratch. They have a few projects easy that I can work on. It seems way easier than Flutter but I still want something more challenging. 
 ![](/images/AppInventor1.png)
+(an example of a flutter project)
