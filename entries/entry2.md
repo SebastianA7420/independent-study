@@ -7,4 +7,4 @@ I have dowloaded the flutter ADK. It is a very large file, therefore it took a w
 <center><iframe src="https://giphy.com/embed/3o7TKRrRSZwAJF0vLO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/heute-show-creep-stalking-behind-you-3o7TKRrRSZwAJF0vLO">via GIPHY</a></p></center>
 ## Wednesday:
 Today I'm going to give App Inventor a shot and see what I can do with it. The layout is very similar to Scratch. They have a few projects that I can work on.
-![App Inventor Screenshot](/independent-study/images/AppInventor1.png)
+<!--![App Inventor Screenshot](/independent-study/images/AppInventor1.png)-->
