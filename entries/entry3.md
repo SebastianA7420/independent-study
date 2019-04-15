@@ -8,6 +8,7 @@ Today I brainstormed two ideas that I have for the app. Figuring out what I want
 ![](/images/BingeWatchPlan.png)
 ## Wednesday:
 Today I set up phone gap after just downloading it last week. In order to create a new project I needed to have a file locally on the computer. I can't use c9.io anymore therefore I will now be using Atom to code the app. Atom is very similar to c9 so it shouldn't be too difficult to adjust.
+#### (an example of what atom looks like)
 ![](/images/atompreview.gif)
 ## Thursday: 
 
