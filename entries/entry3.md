@@ -10,5 +10,7 @@ Today I brainstormed two ideas that I have for the app. Figuring out what I want
 Today I set up phone gap after just downloading it last week. In order to create a new project I needed to have a file locally on the computer. I can't use c9.io anymore therefore I will now be using Atom to code the app. Atom is very similar to c9 so it shouldn't be too difficult to adjust.
 #### (an example of what atom looks like)
 ![](/images/atompreview.gif)
-## Thursday: 
-
+## Thursday-Friday: 
+Skimmed over Javascript courses on code camp. I didn't really learn anything new but I will begin to focus more on the javascript aspect next week.
+## Takeaways/Summary:
+This week was mostly creating the plan and what I needed to start building the app. Next week I fully plan to start building the app. I want to have an MVP of the app by the end of next week so that I can deploy it on phone gap soon.
