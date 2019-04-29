@@ -5,4 +5,4 @@ Today I will begin to code my Magic 8 Ball app. I know that in order to do this 
 ## Tuesday: 
 I was looking around code camp today and found an interesting [article](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array/) that will help me in the future. The article teaches me how to extract data from an array. This will be useful later on because the different phrases that the 8 Ball has will be in an array. Now I will know how to extract the data to give to the user. I still need to figure out how I will display it to the user though.
 ![](/images/data_array.png)
-Wednesday: 
+## Wednesday: 
