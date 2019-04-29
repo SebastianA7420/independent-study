@@ -7,3 +7,5 @@ I was looking around code camp today and found an interesting [article](https://
 #### SCREENSHOT OF WHAT STOOD OUT TO ME MOST ON SIGHT. DISCLAIMER: THIS IS NOT MY PERSONAL WORK
 ![](/images/data_array.png)
 ## Wednesday: 
+Today I will run what I have so far on Phone Gap to make sure it will work when it is on a device. I mostly have some css but it will be enough.
+It does run on phone gap but I wish it were more functional. I want to create a POST/GET Method like I was able to do on Ruby/Sinatra but I'm afraid it'll be more complex than I think. Tomorrow I will research this more and try and figure out a way.
