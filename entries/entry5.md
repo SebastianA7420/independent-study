@@ -5,5 +5,9 @@ I think that the best way to have a functional app without the hassle of having 
 
 ![](/images/JqueryMeme.jpg)
 
-There's nothing wrong with using JQuery... right?
+There's nothing wrong with using JQuery because JQuery is still Javascript...
 ## Tuesday:
+I needed to set up JQuery on my project and it was very easy. I've done JQuery before in SEP, so I went back to some old slides and followed the instructions on how to set it up. Apparently it was only adding one extra line of code into your js file. Then when that was done I could finally start looking online for some methods in Jquery. 
+
+![](/images/jquery_setup.png)
+
