@@ -11,3 +11,11 @@ I needed to set up JQuery on my project and it was very easy. I've done JQuery b
 
 ![](/images/jquery_setup.png)
 
+## Wednesday:
+I have a vision for my app that an actual 8 Ball will be on the screen and give you the advice. I know that to do this I'm going to need some sort of animation. So I do a Google search for **JQuery Methods** and the first link is to w3schools. When I opened the link and I noticed **Animation** right way and I knew that was what I needed. JQuery has a variety of ways for me to have the 8 Ball move. I tinkered around with the code and I know how I'm going to manipulate this for my apps use.
+
+## Thursday:
+Today I will find some sort of GET/POST functionality for my app. I went back to w3schools and sure enough I found JQuery Get/Post Method. The examples on w3schools however are a little more difficult to manipulate for my own use because I want the user to put in a question and it returns to them a piece of advice. I need to figure out hown to involve variables and strings into this.
+
+## Takeaways/Summary:
+Some takeaways I had this week was to use all your resources and to not be afraid to tinker around with different methods. This week I was able to collect the necessary working pieces for my app and next week will just focus on using these methods for my own app.
